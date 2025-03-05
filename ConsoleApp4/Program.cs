@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fatorial");
             Console.WriteLine(f(5));
         }
 
